@@ -111,7 +111,7 @@ git clone [https://github.com/matondosantiago/SGV-Angola-Web-MVC.git](https://gi
 
 Desenvolvido por **Matondo Santiago**.
 
-* 🐙 **GitHub:** [@matondosantiago](https://www.google.com/search?q=https://github.com/matondosantiago)
+* 🐙 **GitHub:** [@matondosantiago](https://github.com/matondosantiago)
 * 📧 **Contacto:** matondosantiago@gmail.com
 
 ```
